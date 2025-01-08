@@ -88,8 +88,8 @@ react-boilerplate/
 │   ├── assets/
 │   ├── components/
 │   ├── pages/
-│   ├── App.tsx
-│   └── main.tsx
+│   ├── App.jsx
+│   └── main.jsx
 ├── .eslintrc.json
 ├── .gitignore
 ├── index.html
